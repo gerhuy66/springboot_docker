@@ -15,7 +15,7 @@ Optional:
 
 ##### Clone source code from git
 ```
-$  git clone https://github.com/dstar55/docker-hello-world-spring-boot .
+$  git clone https://github.com/gerhuy66/springboot_docker.
 ```
 
 ##### Build Docker image
